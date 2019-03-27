@@ -1,0 +1,26 @@
+{
+  "name": "middleware-practice",
+  "version": "1.0.0",
+  "description": "Testing using swagger.json",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest --coverage --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jest": "^23.6.0",
+    "supertest": "^3.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401d29-advanced-javascript/Lab-07-testing-part-3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/401d29-advanced-javascript/Lab-07-testing-part-3/issues"
+  },
+  "homepage": "https://github.com/401d29-advanced-javascript/Lab-07-testing-part-3#readme"
+}
